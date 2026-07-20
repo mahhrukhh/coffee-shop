@@ -1,6 +1,6 @@
 const MENU = [
   { name: "Drip Coffee", desc: "Rotating single-origin, brewed to order.", price: "450rs" },
-  { name: "Flat White", desc: "Double ristretto, steamed whole milk.", price: "$450rs" },
+  { name: "Flat White", desc: "Double ristretto, steamed whole milk.", price: "450rs" },
   { name: "Pour Over", desc: "Slow-brewed, one cup at a time.", price: "500rs" },
   { name: "Butter Croissant", desc: "Baked fresh each morning.", price: "350rs" },
   { name: "Oat Milk Latte", desc: "House-made oat milk, double shot.", price: "500rs" },
